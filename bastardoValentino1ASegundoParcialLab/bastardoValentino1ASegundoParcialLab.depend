@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1637762688 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Movies.h"
+	"Controller.h"
+	"parser.h"
+	"miBiblioteca.h"
+
+1637762268 c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\linkedlist.h
+
+1637761379 c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\employee.h
+
+1637763334 c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\controller.h
+	"Movies.h"
+	"LinkedList.h"
+
+1637761531 c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\parser.h
+
+1635335454 c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\mibiblioteca.h
+
+1637761858 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Movies.h"
+	"miBiblioteca.h"
+
+1637759081 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637763404 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1637761858 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Movies.h"
+
+1637763483 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Movies.h"
+	"miBiblioteca.h"
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+
+1637763334 c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\movies.h
+
+1637763760 source:c:\users\valen\desktop\utn\bastardovalentino1asegundoparciallab\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Movies.h"
+	"miBiblioteca.h"
+
